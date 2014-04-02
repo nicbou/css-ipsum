@@ -5,7 +5,7 @@ Simple, manageable placeholder content using pure CSS.
 ## How it works
 
 1. Include `cssipsum.css` in your page
-1. Add the `ipsum` attribute to your element: `<p ipsum>` or `<p ipsum='30'>`
+1. Add the `data-ipsum` attribute to your element: `<p data-ipsum>` or `<p data-ipsum='30'>`
 
 The placeholder content will be inserted using CSS `:after`, which means you do not need to alter your markup. To remove the placeholder content, simply stop including the CSS file.
 
