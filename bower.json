@@ -1,0 +1,8 @@
+{
+  "name": "css-ipsum",
+  "version": "1.0.0",
+  "main": "cssipsum.css",
+  "ignore": [],
+  "dependencies": {},
+  "devDependencies": {}
+}
